@@ -1,0 +1,5 @@
+- Strings: To store text-based information such as product names, categories, and user details.
+- Numbers:To handle all quantities, prices, totals, and IDs.
+- Boolean:To represent true/false conditions in the cart.
+- Arrays:To store lists of related items, such as products in the cart.
+- Objects:To represent structured data like a single product, user, or order.
