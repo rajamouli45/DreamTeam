@@ -1,1 +1,0 @@
-https://medium.com/p/d850a4f9cd2d/edit
